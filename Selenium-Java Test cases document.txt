@@ -1,0 +1,19 @@
+Test Scenario: Login Functionality
+
+Test case ID:Login001
+Title/Description:Verify the login functionality with valid and invalid credentials.
+Test Data:Username,Password
+Pre-Conditions:
+Test Steps:
+	1. Navigate to the login page.
+	2. Enter valid/invalid username and password.
+	3. Click the login button.
+	4. Verify if the user is logged in or an error message is displayed.
+Expected Result:
+Actual Result:
+	1.For valid credentials: User is redirected to the homepage.
+	2.For invalid credentials: Error message is shown.
+
+i have career gap 2 years, will i get job with DevOps in Canada location but i have past 8years experience with protocol testing skills , certified CCNA.
+
+i have career gap 2 years, will i get job with DevOps in Canada location but i have past 8years experience with protocol testing skills , certified CCNA.
