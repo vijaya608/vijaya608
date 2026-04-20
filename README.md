@@ -2,6 +2,12 @@
 - 👀 I’m interested in cloud network engineer
 - 🌱 I’m currently working on DevOps with AWS, Network Engineer, Network testing
 - 💞️ I’m looking to collaborate on Python, TCP/IP, UDP, DNS, DHCP, IP Versions, VPN, Subnet, VPC, Private Network, Boradband, Direct Connect, CloudFront, API gateway, VPC, Security Groups, IAM Root, IAM users, IAM roles, IAM groups, EC2, Lambda, S3, EBS, Elastic Beanstalk, RDS, DMS, ELB, AMI Images, Vmware, vCloud, Linux and Unix OS and many more....
+    **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS, CloudFormation, IAM, VPC)
+    ** DevOps Tools:** Jenkins, Git, Docker, Kubernetes, Terraform
+    **Scripting: **Python, Bash
+    ** Monitoring:** CloudWatch, ELK Stack
+    **Certifications**: AWS Certified Solutions Architect – Associate
+  
 - 📫 How to reach me vijayalakshmi.gk001@gmail.com
 - 😄 Pronouns: vijaya
 - ⚡ Fun fact: Walking, Listening Music
